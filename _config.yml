@@ -1,11 +1,11 @@
 # Site settings
-title: Aspiris Pharmaceuticals
-subtitle: "Aspiris Pharmaceuticals is a leading global biopharmaceutical company"
-author: Aspiris Pharmaceuticals
+title: Aspiris Pharmaceuticals Pvt Ltd.
+subtitle: "Aspiris Pharmaceuticals Pvt Ltd. is a leading global biopharmaceutical company"
+author: Aspiris Pharmaceuticals Pvt Ltd.
 url: http://www.aspirispharma.github.io
 # Contact settings
 email: mailto:aspiris.pharmaceuticals@gmail.com
-description: "Welcome to Aspiris Pharmaceuticals. We are a leading global biopharmaceutical company that discovers, develops and delivers innovative medicines in areas of unmet medical need."
+description: "Welcome to Aspiris Pharmaceuticals Pvt Ltd. We are a leading global biopharmaceutical company that discovers, develops and delivers innovative medicines in areas of unmet medical need."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -21,8 +21,8 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Plot no 520, Road No 5,
-  - line: SachinG.I.D.G., Sachin,
-  - line: Surat-294230, Gujarat, India
+  - line: Sachin G.I.D.C., Sachin,
+  - line: Surat-394230, Gujarat, India
 
 # Build settings
 markdown: kramdown
