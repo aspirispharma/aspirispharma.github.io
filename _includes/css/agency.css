@@ -69,12 +69,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #{{ site.color.primary }};
+    border-color: #002147;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #add8e6;
 }
 
 .btn-primary:hover,
@@ -82,9 +82,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #{{ site.color.primary }};
+    border-color: #002147;
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #add8e6;
 }
 
 .btn-primary:active,
@@ -191,8 +191,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.color.primary }};
-    background-color: #{{ site.color.primary }};
+    border-color: #002147;
+    background-color: #add8e6;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -201,7 +201,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.color.primary }};
+    background-color: #002147;
 }
 
 .navbar-default .nav li a {
